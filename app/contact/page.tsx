@@ -13,7 +13,7 @@ export default function ContactPage() {
             out to us:
           </p>
           <ul>
-            <li>Email: support@digiposters.com</li>
+            <li>Email: rpaventures.tech@gmail.com</li>
             <li>In-app support: Use the "Contact Us" feature in the DigiPosters app settings</li>
             <li>Google Play Store: Leave a review or comment on our app page</li>
           </ul>
